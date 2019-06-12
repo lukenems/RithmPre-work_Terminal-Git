@@ -1,0 +1,21 @@
+##Terminal Commands
+
+ls - list all items in current directory
+
+cd - change directory to [following argument]
+
+pwd - print full working directory
+
+mkdir - make new directory at current position
+
+rm - remove a file
+
+rm -f - force remove file without confirmation
+
+rm -r - remove entire directory
+
+cp - copy file
+
+mv - move file [source] [target]
+
+touch - create a file
